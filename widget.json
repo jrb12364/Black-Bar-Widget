@@ -1,6 +1,6 @@
 {
   "name": "Black Bar",
   "description": "Adds a 5 pixel tall black bar at the bottom of the screen to fix the issue of window height to account for a hidden dock.",
-  "author": "Jack Bricker",
-  "email": "jrb12364@gmail.com"
+  "author": "Jack Bricker, Evan Goode",
+  "email": "jrb12364@gmail.com, mail@evangoo.de"
 }
